@@ -4,8 +4,7 @@ package firefox
 import (
 	"bytes"
 	"encoding/base64"
-	"selenium/go-selenium/internal/zip"
-
+	"go-selenium/internal/zip"
 )
 
 // CapabilitiesKey is the name of the Firefox-specific key in the WebDriver

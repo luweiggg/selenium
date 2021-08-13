@@ -2,7 +2,7 @@ package actions
 
 import (
 	"reflect"
-	"selenium/go-selenium"
+	"github.com/luweiggg/selenium"
 )
 
 type ActionBuilder struct {

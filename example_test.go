@@ -2,8 +2,8 @@ package selenium_test
 
 import (
 	"fmt"
+	"github.com/luweiggg/selenium"
 	"os"
-	"selenium/go-selenium"
 	"strings"
 	"time"
 

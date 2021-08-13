@@ -1,8 +1,8 @@
 package actions
 
 import (
+	"github.com/luweiggg/selenium"
 	"reflect"
-	"selenium/go-selenium"
 )
 
 type PointerActions struct {

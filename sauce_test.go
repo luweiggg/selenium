@@ -3,7 +3,7 @@ package selenium
 import (
 	"flag"
 	"fmt"
-	"selenium/go-selenium/sauce"
+	"go-selenium/sauce"
 	"strings"
 	"testing"
 

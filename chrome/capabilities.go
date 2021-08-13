@@ -11,9 +11,9 @@ import (
 	"crypto/x509"
 	"encoding/base64"
 	"encoding/binary"
+	"go-selenium/internal/zip"
 	"io"
 	"os"
-	"selenium/go-selenium/internal/zip"
 )
 
 // DeprecatedCapabilitiesKey and CapabilitiesKey are the key in the top-level Capabilities map under which

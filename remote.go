@@ -9,11 +9,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"go-selenium/firefox"
+	"go-selenium/log"
 	"io/ioutil"
 	"mime"
 	"net/http"
-	"selenium/go-selenium/firefox"
-	"selenium/go-selenium/log"
 	"strings"
 	"time"
 
