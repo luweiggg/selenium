@@ -1,4 +1,4 @@
-module selenium
+module github.com/luweiggg/selenium
 
 go 1.16
 
