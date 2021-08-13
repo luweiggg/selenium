@@ -1,9 +1,9 @@
 package selenium
 
 import (
-	"go-selenium/chrome"
-	"go-selenium/firefox"
-	"go-selenium/log"
+	"github.com/luweiggg/selenium/chrome"
+	"github.com/luweiggg/selenium/firefox"
+	"github.com/luweiggg/selenium/log"
 	"time"
 
 )
