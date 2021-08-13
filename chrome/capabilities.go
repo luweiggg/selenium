@@ -11,7 +11,7 @@ import (
 	"crypto/x509"
 	"encoding/base64"
 	"encoding/binary"
-	"go-selenium/internal/zip"
+	"github.com/luweiggg/selenium/internal/zip"
 	"io"
 	"os"
 )
