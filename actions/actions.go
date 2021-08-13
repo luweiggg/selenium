@@ -1,11 +1,11 @@
 package actions
 
 import (
-	"reflect"
 	"github.com/luweiggg/selenium"
+	"reflect"
 	"time"
 )
-
+//动作链
 type Actions struct {
 	_driver     selenium.WebDriver
 	_actions    []func()
