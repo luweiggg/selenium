@@ -1,4 +1,4 @@
-module go-selenium
+module selenium
 
 go 1.16
 
