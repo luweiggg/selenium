@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 )
-//动作链
+
 type Actions struct {
 	_driver     selenium.WebDriver
 	_actions    []func()
